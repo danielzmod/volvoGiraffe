@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-09-08T12:23:40Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "giraffevolvo"
+        },
+        "Owner": "Daniel Robertsson <daniel.zmod@gmail.com>",
+        "Size": {
+            "X": 65,
+            "Y": 56
+        }
+    }
+}
